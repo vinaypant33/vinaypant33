@@ -58,10 +58,3 @@
 </p>
 
 ---
-
-<!-- Footer GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="400"/>
-</p>
-
-
