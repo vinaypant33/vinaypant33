@@ -34,10 +34,16 @@ Building scalable analytics platforms that combine analytics engineering, data w
 <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spark-FDEE21?style=flat&logo=apachespark&logoColor=black"/>
 <img src="https://img.shields.io/badge/Databricks-EA3A28?style=flat&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 
 <br>
 
