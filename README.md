@@ -2,7 +2,7 @@
 <h1 align="center">Vinay Pant</h1>
 
 <p align="center">
-Analytics Engineering • Data Platforms • Applied Machine Learning
+Data Platforms • Analytics Engineering • Machine Learning Systems
 </p>
 
 <p align="center">
@@ -13,134 +13,59 @@ Dublin, Ireland
 <img src="https://komarev.com/ghpvc/?username=vinaypant33&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Analytics+Engineering;Data+Platforms;Machine+Learning+Systems;Decision+Intelligence+Platforms" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Analytics+Engineering;Machine+Learning+Systems;Data+Platforms;Deep+Learning;Decision+Intelligence" />
 </p>
 
 ---
 
-# About
+## About
 
-Data analytics professional with **5+ years of experience building data-driven decision systems across operations, healthcare, and supply chain environments.**
+Data and analytics professional with extensive experience designing **data-driven decision systems, analytics platforms, and scalable data models** across operations, healthcare, and supply chain environments.
 
-My work focuses on **analytics engineering, KPI governance, and scalable data platforms** that help organizations understand performance and make strategic decisions.
+My work focuses on bridging **analytics engineering, machine learning, and data platform architecture** to transform raw data into systems that support strategic decision-making.
 
-Currently pursuing **MSc in Data Analytics in Dublin**, while expanding into **machine learning systems, anomaly detection, and advanced analytics infrastructure.**
-
----
-
-# Core Expertise
-
-### Analytics & Decision Systems
-
-• KPI design and governance  
-• Executive dashboard systems  
-• Cohort, funnel, and retention analysis  
-• Operational performance analytics  
-• A/B testing and hypothesis testing  
+I am particularly interested in **advanced analytics systems, machine learning infrastructure, anomaly detection, and large-scale data platforms.**
 
 ---
 
-### Data Engineering & Modeling
+## Core Expertise
 
-• Dimensional modeling (star schema)  
-• Data warehouse architecture  
-• ETL / transformation pipelines  
-• Semantic layer modeling  
+Designing end-to-end **analytics and data platform solutions**, spanning analytics engineering, data modeling, machine learning systems, and scalable data infrastructure — enabling organizations to move from reporting to **intelligent decision systems** powered by data.
 
 ---
 
-### Programming & Tools
-
-Python  
-SQL  
-Power BI  
-Tableau  
-PostgreSQL  
-SSAS  
-SSIS  
-dbt  
-Plotly Dash
-
-
-
----
-
-# Professional Impact
-
-• Built executive Power BI dashboards monitoring **revenue, cost, and operational KPIs across 50+ properties**
-
-• Conducted **electricity consumption anomaly analysis** reducing operational costs by ~7%
-
-• Developed commercial performance models supporting **hospital expansion investment decisions**
-
-• Designed standardized KPI frameworks improving **cross-team reporting consistency**
-
----
-
-# Featured Work
-
-## Healthcare Operations Analytics Platform
-
-Operational analytics system designed for healthcare performance monitoring.
-
-Capabilities
-
-• Star-schema warehouse design  
-• Cohort analysis for patient no-show behavior  
-• Operational KPI framework (Median, P90, Service Level %)  
-• Tableau dashboards for provider performance analytics  
-
----
-
-## Supply Chain Control Tower
-
-Operational monitoring platform for inventory and logistics performance.
-
-Capabilities
-
-• Inventory health monitoring system  
-• Stockout risk scoring and reorder logic  
-• KPI framework including Fill Rate, OTIF, Days of Supply  
-• Plotly Dash operational dashboards  
-
----
-
-## Conformal LSTM Anomaly Detection
-
-Research implementation of deep learning-based anomaly detection.
-
-Focus areas
-
-• Time-series anomaly detection  
-• Conformal prediction  
-• NAB benchmark evaluation  
-
----
-
-# Certifications
-
-Microsoft Certified  
-Fabric Analytics Engineer Associate **(DP-600)**
-
-Microsoft Certified  
-Power BI Data Analyst Associate **(PL-300)**
-
----
-
-# GitHub Statistics
+## Technology Stack
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinaypant33&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,sqlite,tensorflow,pytorch,sklearn,git,docker" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaypant33&layout=compact&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,linux,github,vscode" />
 
 </p>
 
 ---
 
-# Contribution Streak
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinaypant33&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaypant33&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution Streak
 
 <p align="center">
 
@@ -150,7 +75,7 @@ Power BI Data Analyst Associate **(PL-300)**
 
 ---
 
-# Contribution Activity Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -160,27 +85,44 @@ Power BI Data Analyst Associate **(PL-300)**
 
 ---
 
-# Current Focus
+## GitHub Metrics
 
-• Analytics engineering platforms  
-• Data platform architecture  
-• Anomaly detection systems  
-• Applied machine learning  
-• Real-time analytics pipelines  
+<p align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaypant33&theme=github" />
 
-# Connect
+</p>
 
-Email  
-vinaypant24@gmail.com  
+<p align="center">
 
-GitHub  
-https://github.com/vinaypant33
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinaypant33&theme=github" height="160"/>
 
-LinkedIn  
-(Add your LinkedIn profile link)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinaypant33&theme=github" height="160"/>
+
+</p>
 
 ---
 
-⭐ If you find my work useful, feel free to explore the repositories and contribute.
+## Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vinay-pant">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vinaypant24@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
