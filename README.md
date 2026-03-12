@@ -15,6 +15,7 @@ Dublin, Ireland
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=26&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Analytics+Engineering;Data+Platform+Architecture;Machine+Learning+Systems;Deep+Learning+Infrastructure;Decision+Intelligence+Systems" />
 </p>
+
 ## About
 
 Data and analytics professional with 5+ years of experience designing analytics platforms, BI systems, and data pipelines across operations, healthcare, and supply chain environments. My work focuses on building reliable analytics infrastructure and machine learning systems that transform raw data into operational intelligence and decision support.
