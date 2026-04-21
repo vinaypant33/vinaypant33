@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <strong>Vinay Pant</strong></h1>
 
 <p align="center">
-Analytics Engineering • Data Engineering • Machine Learning • Deep Learning
+Data Analytics • Data Engineering • Machine Learning • Deep Learning
 </p>
 
 <p align="center">
